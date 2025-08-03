@@ -1,6 +1,6 @@
-# Kylian Electro Shop
+# Kylian Sluzby Shop
 
-Moderní e-shop s elektronikou – produkty, ceny, tlačítka.
+E-shop pro služby jako programování, grafika, weby, s ceníkem a formulářem.
 
 Tento web je součástí portfolia Oldřicha Kyliana.
 

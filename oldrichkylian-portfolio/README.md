@@ -1,5 +1,7 @@
 # Oldrichkylian Portfolio
 
-Ukázkový projekt ve složce `oldrichkylian-portfolio`.
+Portfolio web Oldřicha Kyliana s přehledem projektů a kontaktem.
 
-Autor: Oldřich Kylian
+Tento web je součástí portfolia Oldřicha Kyliana.
+
+Publikujte přes GitHub Desktop jako veřejný repozitář.

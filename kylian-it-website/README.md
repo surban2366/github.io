@@ -1,6 +1,6 @@
-# Kylian Electro Shop
+# Kylian It Website
 
-Moderní e-shop s elektronikou – produkty, ceny, tlačítka.
+Firemní prezentační web s nabídkou IT služeb.
 
 Tento web je součástí portfolia Oldřicha Kyliana.
 
