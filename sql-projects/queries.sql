@@ -1,1 +1,0 @@
-// Ukázkový soubor pro sql-projects

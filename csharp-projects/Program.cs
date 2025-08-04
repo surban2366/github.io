@@ -1,1 +1,0 @@
-// Ukázkový soubor pro csharp-projects
